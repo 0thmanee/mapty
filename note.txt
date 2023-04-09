@@ -1,0 +1,11 @@
+1) PLANING A PROJECT
+--------------------
+** Planing Step
+================
+1. USER STORIES: Describe the functionality of the project
+2. FEATURES
+3. FLOWCHART: What we will build
+4. ARCHITECTURE: How we will build it
+
+ ** Developement Step
+ ====================
